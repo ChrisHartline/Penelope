@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+
+# API Keys
+*.key
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Local data
+*.mp3
+conversation_history.json
+search_log.txt
+paper_details.json
+
+# Chrome DB (vector database)
+chroma_db/
+
+# Temporary files
+temp_docs/
+*.tmp
+
+# Gradio cache
+.gradio/
+flagged/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db 

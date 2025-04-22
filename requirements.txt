@@ -1,0 +1,16 @@
+gradio>=4.0.0
+langchain>=0.1.0
+langchain-anthropic>=0.1.0
+elevenlabs>=0.3.0
+arxiv>=2.0.0
+PyPDF2>=3.0.0
+python-dotenv>=1.0.0
+langchain-perplexity>=0.1.0
+requests>=2.31.0
+IPython>=8.0.0
+langchain-community>=0.1.0
+langgraph>=0.0.20
+langchain-chroma>=0.1.0
+langchain-text-splitters>=0.1.0
+chromadb>=0.3.21
+docx2txt>=0.8
